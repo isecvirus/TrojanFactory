@@ -1,3 +1,4 @@
+![logo](trojan.png)
 # TrojanFactory
 Spoof file extensions.
 
