@@ -21,3 +21,5 @@ Spoof file extensions.
  * 	annexe.pdf
  */
 ```
+
+## Spoofing icons (<a href="https://anonfiles.com/Gfz78eJ2y2/1307-icon_zip">1307-icons.zip</a>@AnonFiles[Dot]com):
